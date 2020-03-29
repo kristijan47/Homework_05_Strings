@@ -147,17 +147,7 @@ namespace Homework_05
             //Console.ReadLine();
 
             #endregion
-            #region Task7
-            //Task 7
-            //            Create a class Dog
-            //Add properties: Name, race, color
-            //The dog needs to have:
-            //Eat method that returns message: The dog is now eating
-            //Play method returning a message : The dog is now playing
-            //ChaseTail method that returns a message: Dog is now chasing its tail.
-            //The user needs to create the dog object by inputs and then given an option to choose one of the actions mentioned above. 
-        
-        #endregion
+ 
 
     
     }
